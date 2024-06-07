@@ -8,7 +8,7 @@ Number of Samples: ~110,000
 Number of Predictors: 90
 
 
-Deliverable:
+
 
 # Deliverable
 
